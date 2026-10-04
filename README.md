@@ -99,12 +99,12 @@ puntos no adyacentes (`salto = 5` y `salto = 7`) y la animación en GIF con
 ## Publicación en Git
 
 ```bash
-cd ruta/a/taller5g-unidad3-APELLIDO
+cd taller5g-unidad3-fernandez
 git init
 git add .
 git commit -m "Entrega tarea Unidad III"
 git branch -M main
-git remote add origin https://github.com/USUARIO/taller5g-unidad3-APELLIDO.git
+git remote add origin https://github.com/alejof30494-design/taller5g-unidad3-fernandez.git
 git push -u origin main
 ```
 
